@@ -1,0 +1,7 @@
+
+ 
+Command "websocket:int" is not defined.
+                                                                               
+
+ Do you want to run "websocket:init" instead?  (yes/no) [no]:
+ > 
